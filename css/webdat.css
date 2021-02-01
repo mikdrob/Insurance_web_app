@@ -1,0 +1,23 @@
+.formm{
+  width: auto;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+#form {
+  position: relative;
+  margin-left: 10%;
+  margin-top: 5%;
+  max-width: 400px;
+}
+
+#form #edit {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#cancel {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

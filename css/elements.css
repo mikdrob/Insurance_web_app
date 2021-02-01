@@ -1,0 +1,24 @@
+.card {
+    width: 25rem;
+    height: 25rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.login {
+    margin-bottom:5px;
+}
+.dropdown-menu {
+    width: 300px !important;
+}
+
+/* .open {
+    @include animation(slide 1s);
+    display: block;
+  } */
